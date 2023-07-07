@@ -7,6 +7,8 @@ export default function hobbyLinks () {
             <a href = {hobbyLinks[0]}>Archery As a Hobby</a>
 
             <br></br>
+            <br></br>
+            <br></br>
 
             <a href = {hobbyLinks[1]}>Cooking As a Hobby</a>
         </div>
