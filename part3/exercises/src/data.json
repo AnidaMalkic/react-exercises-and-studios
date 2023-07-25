@@ -1,0 +1,33 @@
+{
+    "fish": "rainbow trout",
+    "habitat": "river and lakes",
+    "photoUrl": "https://www.wildtrout.org/imager/general/111/rainbow_trout_983c404359247ecee4033ec1e6bdab0c.jpg",
+    "alt": "image of rainbow trout"
+ }
+
+ {
+    "fish": "catfish",
+    "habitat": "river and lakes",
+    "photoUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSmS51N9FGLWtuyWmUBVMPmdOW8_y0jBxYF67IEej6Ij02q34D-5B16jkExzYMWwafK",
+    "alt": "image of catfish"
+}
+{
+    "fish": "common carp",
+    "habitat": "river and lakes",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
+    "alt": "image of common carp"
+}
+{
+    "fish": "sword fish",
+    "habitat": "sea",
+    "photoUrl": "https://www.fisheries.noaa.gov/s3/styles/original/s3/2022-09/640x427-Swordfish-NOAAFisheries.png?itok=D35ccWSJ",
+    "alt": "image of sword fish"
+}
+{
+    "fish": "largemouth bass",
+    "habitat": "sea",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Largemouth.JPG",
+    "alt": "image of largemouth bass"
+}
+
+ 
